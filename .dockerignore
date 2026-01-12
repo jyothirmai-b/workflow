@@ -9,7 +9,7 @@ __pycache__
 *.pyo
 *.pyd
 .Python
-*.so
+*.so 
 *.egg
 *.egg-info
 dist
